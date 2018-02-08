@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: b2229eacdb5387a4ba572562a0d2aeb5
+timeCreated: 1516436877
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Little Mushroom(Sprite Sheet) 1_0
+    21300002: Little Mushroom(Sprite Sheet) 1_1
+    21300004: Little Mushroom(Sprite Sheet) 1_2
+    21300006: Little Mushroom(Sprite Sheet) 1_3
+    21300008: Little Mushroom(Sprite Sheet) 1_4
+    21300010: Little Mushroom(Sprite Sheet) 1_5
+    21300012: Little Mushroom(Sprite Sheet) 1_6
+    21300014: Little Mushroom(Sprite Sheet) 1_7
+    21300016: Little Mushroom(Sprite Sheet) 1_8
+    21300018: Little Mushroom(Sprite Sheet) 1_9
+    21300020: Little Mushroom(Sprite Sheet) 1_10
+    21300022: Little Mushroom(Sprite Sheet) 1_11
+    21300024: Little Mushroom(Sprite Sheet) 1_12
+    21300026: Little Mushroom(Sprite Sheet) 1_13
+    21300028: Little Mushroom(Sprite Sheet) 1_14
+    21300030: Little Mushroom(Sprite Sheet) 1_15
+    21300032: Little Mushroom(Sprite Sheet) 1_16
+    21300034: Little Mushroom(Sprite Sheet) 1_17
+    21300036: Little Mushroom(Sprite Sheet) 1_18
+    21300038: Little Mushroom(Sprite Sheet)_0
+    21300040: Little Mushroom(Sprite Sheet)_1
+    21300042: Little Mushroom(Sprite Sheet)_2
+    21300044: Little Mushroom(Sprite Sheet)_3
+    21300046: Little Mushroom(Sprite Sheet)_4
+    21300048: Little Mushroom(Sprite Sheet)_5
+    21300050: Little Mushroom(Sprite Sheet)_6
+    21300052: Little Mushroom(Sprite Sheet)_7
+    21300054: Little Mushroom(Sprite Sheet)_8
+    21300056: Little Mushroom(Sprite Sheet)_9
+    21300058: Little Mushroom(Sprite Sheet)_10
+    21300060: Little Mushroom(Sprite Sheet)_11
+    21300062: Little Mushroom(Sprite Sheet)_12
+    21300064: Little Mushroom(Sprite Sheet)_13
+    21300066: Little Mushroom(Sprite Sheet)_14
+    21300068: Little Mushroom(Sprite Sheet)_15
+    21300070: Little Mushroom(Sprite Sheet)_16
+    21300072: Little Mushroom(Sprite Sheet)_17
+    21300074: Little Mushroom(Sprite Sheet)_18
+    21300076: Little Mushroom(Sprite Sheet)_19
+    21300078: Little Mushroom(Sprite Sheet)_20
+    21300080: Little Mushroom(Sprite Sheet)_21
+    21300082: Little Mushroom(Sprite Sheet)_22
+    21300084: Little Mushroom(Sprite Sheet)_23
+    21300086: Little Mushroom(Sprite Sheet)_24
+    21300088: Little Mushroom(Sprite Sheet)_25
+    21300090: Little Mushroom(Sprite Sheet)_26
+    21300092: Little Mushroom(Sprite Sheet)_27
+    21300094: Little Mushroom(Sprite Sheet)_28
+    21300096: Little Mushroom(Sprite Sheet)_29
+    21300098: Little Mushroom(Sprite Sheet)_30
+    21300100: Little Mushroom(Sprite Sheet)_31
+    21300102: Little Mushroom(Sprite Sheet)_32
+    21300104: Little Mushroom(Sprite Sheet)_33
+    21300106: Little Mushroom(Sprite Sheet)_34
+    21300108: Little Mushroom(Sprite Sheet)_35
+    21300110: Little Mushroom(Sprite Sheet)_36
+    21300112: Little Mushroom(Sprite Sheet)_37
+    21300114: Little Mushroom(Sprite Sheet)_38
+    21300116: Little Mushroom(Sprite Sheet)_39
+    21300118: Little Mushroom(Sprite Sheet)_40
+    21300120: Little Mushroom(Sprite Sheet)_41
+    21300122: Little Mushroom(Sprite Sheet)_42
+    21300124: Little Mushroom(Sprite Sheet)_43
+    21300126: Little Mushroom(Sprite Sheet)_44
+    21300128: Little Mushroom(Sprite Sheet)_45
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_12
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_13
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_15
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_16
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_17
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 132
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_30
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_31
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_32
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_33
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_34
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_35
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_36
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 72
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 12
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 12
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 12
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 12
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Mushroom(Sprite Sheet)_45
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 12
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
